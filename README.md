@@ -120,3 +120,4 @@ yarn deploy
 
 Your website shoud be available at `YOUR_GITHUB_ACCOUNT.github.io/react-giphy`
 # workshop
+# workshop
